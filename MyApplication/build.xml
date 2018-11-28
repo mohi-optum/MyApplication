@@ -78,7 +78,7 @@
   	            </fileset>
   	    </copy>
   	     
-  	    <war destfile="MyApplication.war"
+  	    <war destfile="build/MyApplication.war"
   	        basedir="WebContent"
   	        needxmlfile="false">
   	    </war>
